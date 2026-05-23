@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663858506247",
+    "project_id": "lu-ride",
+    "storage_bucket": "lu-ride.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663858506247:android:6e8490caa87562552e98a2",
+        "android_client_info": {
+          "package_name": "com.example.lu_ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZXvFM1GHNDETYLn4bbI2BW6QvRH3_bb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
